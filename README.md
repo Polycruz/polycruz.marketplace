@@ -1,26 +1,4 @@
 # polycruz.marketplace
-POLYCRUZ - AN INTRODUCTION
-Polycruz, an esteemed blockchain and crypto-based entity, operates
-with a prime objective of making the investors reap remarkable
-returns at the lowest risk and minimized effort. CRUZ, the indigenous
-token of the platform, is a BEP-20 standard token built on the robust
-Binance Smart Chain network. It is one of the flourishing networks
-that assure swift transactions at an affordable price. It offers a
-decentralized NFT marketplace that permits the users to purchase,
-sell, trade, mint, and stake NFTs effortlessly.
-It is a new-age crypto token that assists the audience all across
-the globe to receive the comprehensive perk of decentralization.
-Sovereignty, scalability, and adaptability are the three essential
-parameters that CRUZ token concentrates on. Our platform works
-to bestow users with an out-of-the-world NFT trading experience.
-The marketplace is comprehensively packed with branded and
-rare NFTs. These NFTs are splendid assets that add colossal value to
-your collections. The more rare assets, the more the profits will be.
-The NFTs can be artwork, photo, video, music, meme, accessory, ingame asset, digital collectibles, and much more.
-Moreover, the CRUZ token is one of the lucrative assets in the
-platform. The users will be rendered with exciting rewards on staking
-the CRUZ tokens. With a plan to commence our own decentralized
-exchange in the near future, we will provide a seamless experience
-of exchanging, staking, lending, and borrowing assets without any
-complications. Our platform aids the users with a fascinating and
-sustainable rate of return for staking the assets. 
+Polycruz, an esteemed blockchain and crypto-based company, operates with the prime objective of making the investors reap remarkable returns at low risk and minimal effort. CRUZ, the indigenous token of the platform, is a BEP-20 standard token built on the robust Binance Smart Chain network. It is one of the more successful network that assures swift transactions at an affordable price. It offers a decentralized NFT marketplace, Metaverse and Play to Earn Game that permits the users to purchase, sell, trade, mint and stake NFTs effortlessly.
+CRUZ is designed to be a new-age crypto token that assists audiences all across the globe to get the comprehensive benefits of decentralization. Sovereignty, scalability and adaptability are the three essential parameters that the token concentrates on. Our platform works to bestow users with an out-of-the-world NFT trading experience. The marketplace is comprehensively packed with branded and rare NFTs. These NFTs are splendid assets that add colossal value to your collections. The rarer the asset, the more the profits will be. The NFTs can be anything - artworks, pictures, videos, music, memes, accessories, in-game assets, digital collectibles and much more. Moreover, the CRUZ token can by itself be a lucrative asset. The user will be entitled  to exciting rewards on staking the CRUZ tokens. With a plan to commence a decentralized atmosphere in the near future, we will provide a seamless experience of exchanging, staking and earning revenue or rewards without any complication. Our platform aids the users with a fascinating and sustainable rate of return for staking the assets.
+By leveraging the new NFT concept, Polycruz aims to build it’s own NFT marketplace and become a reputable blockchain and crypto-based organization. It is one of the few organizations that acknowledges the rising potential of NFTs in the crypto sphere. Our NFT marketplace bestows NFT collectors all across the globe the ability to purchase, sell, trade, mint, and hold NFTs easily. It does not involve any third parties in the platform, thereby facilitating a peer-to-peer connection between the users. Though the platform will be initially built based on the  Binance Smart Chain, Ethereum, and Solana enabling a multi-chain facility is a part of our groundbreaking roadmap.
